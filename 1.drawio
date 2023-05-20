@@ -1,0 +1,85 @@
+<mxfile host="app.diagrams.net" modified="2023-05-20T19:59:15.497Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="MQhtu5Mix-YV6vMUnn7g" version="21.3.2" type="github">
+  <diagram name="Page-1" id="42789a77-a242-8287-6e28-9cd8cfd52e62">
+    <mxGraphModel dx="1332" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="none" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-4" value="梵米伦" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="190" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-7" value="伙伴" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f-L8kacAhDFwxtrdeXeR-5" target="f-L8kacAhDFwxtrdeXeR-6" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-5" value="本杰明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="260" y="115" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-22" value="继女" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f-L8kacAhDFwxtrdeXeR-6" target="f-L8kacAhDFwxtrdeXeR-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-6" value="兰斯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+          <mxGeometry x="405" y="115" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-13" value="助理" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f-L8kacAhDFwxtrdeXeR-11" target="f-L8kacAhDFwxtrdeXeR-12" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-11" value="伦道夫" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="200" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f-L8kacAhDFwxtrdeXeR-12" target="f-L8kacAhDFwxtrdeXeR-14" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-12" value="霍勒斯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="60" y="175" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-14" value="戴维斯 我" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="55" y="285" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-64" value="爱" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f-L8kacAhDFwxtrdeXeR-21" target="f-L8kacAhDFwxtrdeXeR-63" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-21" value="安吉丽娜" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+          <mxGeometry x="395" y="225" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-34" value="索菲亚" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+          <mxGeometry x="630" y="305" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-74" value="双胞胎" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;" parent="1" source="f-L8kacAhDFwxtrdeXeR-35" target="f-L8kacAhDFwxtrdeXeR-34" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-35" value="琳赛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" parent="1" vertex="1">
+          <mxGeometry x="610" y="215" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-55" value="克米诺&lt;br&gt;叫我们来的人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="690" y="220" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-60" value="母女" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1.029;entryY=0.544;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="f-L8kacAhDFwxtrdeXeR-56" target="f-L8kacAhDFwxtrdeXeR-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-62" value="母女" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f-L8kacAhDFwxtrdeXeR-56" target="f-L8kacAhDFwxtrdeXeR-61" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-56" value="弗利沙" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="510" y="80" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-66" value="爱" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f-L8kacAhDFwxtrdeXeR-61" target="f-L8kacAhDFwxtrdeXeR-65" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-68" value="姐妹" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f-L8kacAhDFwxtrdeXeR-61" target="f-L8kacAhDFwxtrdeXeR-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-61" value="玛格丽特&lt;br&gt;扮演母亲" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="515" y="245" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-63" value="卡洛斯" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="290" y="255" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-67" value="爱" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="f-L8kacAhDFwxtrdeXeR-65" target="f-L8kacAhDFwxtrdeXeR-21" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="f-L8kacAhDFwxtrdeXeR-65" value="霍普" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
+          <mxGeometry x="430" y="360" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
