@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-22T15:20:21.562Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="c3s7_poQ-58Q_gfYVOlQ" version="21.3.2" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-22T19:40:02.675Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="XVBrXLg_SSasq8aBMaS-" version="21.3.2" type="github">
   <diagram name="第 1 页" id="EBOkK068V1HEIV5xA9xP">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -43,6 +43,9 @@
             <mxPoint x="527.5" y="258" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="T0f1cryZXVCP-ggSnqZf-86" value="爱上" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="T0f1cryZXVCP-ggSnqZf-3" target="T0f1cryZXVCP-ggSnqZf-85">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="T0f1cryZXVCP-ggSnqZf-3" value="天权&lt;br&gt;天师道掌门&lt;br&gt;师门姓曲&lt;br&gt;曲泽全" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
           <mxGeometry x="225" y="455" width="80" height="70" as="geometry" />
         </mxCell>
@@ -68,7 +71,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="T0f1cryZXVCP-ggSnqZf-6" value="玲珑&lt;br&gt;紫薇殿 姜链" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
-          <mxGeometry x="260" y="213" width="90" height="40" as="geometry" />
+          <mxGeometry x="215" y="210" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T0f1cryZXVCP-ggSnqZf-14" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="T0f1cryZXVCP-ggSnqZf-11" target="T0f1cryZXVCP-ggSnqZf-12">
           <mxGeometry relative="1" as="geometry" />
@@ -144,8 +147,8 @@
         <mxCell id="T0f1cryZXVCP-ggSnqZf-80" value="父女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="T0f1cryZXVCP-ggSnqZf-36" target="T0f1cryZXVCP-ggSnqZf-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="T0f1cryZXVCP-ggSnqZf-36" value="姜舒&lt;br&gt;脸上有红痣" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="325" y="45" width="80" height="40" as="geometry" />
+        <mxCell id="T0f1cryZXVCP-ggSnqZf-36" value="姜舒&lt;br&gt;脸上有红痣 / 雾切严" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="300" y="45" width="130" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T0f1cryZXVCP-ggSnqZf-75" value="养子" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="T0f1cryZXVCP-ggSnqZf-40" target="T0f1cryZXVCP-ggSnqZf-25">
           <mxGeometry relative="1" as="geometry" />
@@ -183,11 +186,14 @@
         <mxCell id="T0f1cryZXVCP-ggSnqZf-60" value="通灵书&lt;br&gt;学完书上会消失&lt;br&gt;黑暗之殇是因为通灵书丢了" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-780" y="340" width="170" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="T0f1cryZXVCP-ggSnqZf-62" value="雾切严&lt;br&gt;学了外族秘术" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="T0f1cryZXVCP-ggSnqZf-62" value="雾切严&lt;br&gt;学了外族秘术" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="-490" y="485" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="T0f1cryZXVCP-ggSnqZf-81" value="卢俊义" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-635" y="215" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T0f1cryZXVCP-ggSnqZf-85" value="姜舒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#9673a6;fillColor=#e1d5e7;" vertex="1" parent="1">
+          <mxGeometry x="440" y="475" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
