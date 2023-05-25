@@ -1,9 +1,62 @@
-<mxfile host="app.diagrams.net" modified="2023-05-25T10:07:05.558Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" version="21.3.3" etag="SRgYBwOfbjM-L-b6bgyA" type="github">
-  <diagram name="第 1 页" id="U1z_27jpZalz9mn7hJ1B">
-    <mxGraphModel>
+<mxfile host="app.diagrams.net" modified="2023-05-25T11:00:52.371Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2WwSNmXMBYtUVnnH2Cg_" version="21.3.3" type="github">
+  <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
+    <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-3" value="父女" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="Ulc2wYtIL1msxkk94Hym-1" target="Ulc2wYtIL1msxkk94Hym-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-1" value="大冢蝶" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-5" value="第二任" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Ulc2wYtIL1msxkk94Hym-2" target="Ulc2wYtIL1msxkk94Hym-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-2" value="大冢敬公&lt;br&gt;医院院长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="165" y="93" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-4" value="月读千鹤&lt;br&gt;女 漫画家" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="344" y="93" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-8" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Ulc2wYtIL1msxkk94Hym-6" target="Ulc2wYtIL1msxkk94Hym-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="550" y="113" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-6" value="不破宵二&lt;br&gt;大冢蝶的数学老师" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="455" y="93" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-15" value="兄妹" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Ulc2wYtIL1msxkk94Hym-7" target="Ulc2wYtIL1msxkk94Hym-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-7" value="不破秋波&lt;br&gt;女 家庭主妇" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="630" y="93" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-11" value="母女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Ulc2wYtIL1msxkk94Hym-9" target="Ulc2wYtIL1msxkk94Hym-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-9" value="天照樱和/田村花子&lt;br&gt;无良律师" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-70" y="93" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-10" value="田村芳杏" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-45" y="-12" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-14" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Ulc2wYtIL1msxkk94Hym-12" target="Ulc2wYtIL1msxkk94Hym-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-17" value="父女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Ulc2wYtIL1msxkk94Hym-12" target="Ulc2wYtIL1msxkk94Hym-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-12" value="明智春光&lt;br&gt;刑警" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="790" y="93" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-13" value="明智薰子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="940" y="98" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Ulc2wYtIL1msxkk94Hym-16" value="明智文月" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="790" y="218" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
