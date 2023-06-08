@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-04T22:29:20.965Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="VvPXk5_RHhg0DEVAwMT2" version="21.3.7" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2023-06-08T15:51:48.238Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="ii31-nu-SoCurf7NwvV6" version="21.3.7" type="github" pages="4">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,6 +269,79 @@
         </mxCell>
         <mxCell id="8k4UZxLfzalaEt0RbF3I-30" value="拓也" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="880" y="228" width="50" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="9hqRbFeQwRYvme38R_NM" name="第 4 页">
+    <mxGraphModel dx="2159" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-1" value="你的观点: 仅凭第一幕信息 可锁凶明智" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-5" y="148" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXGWjDaBIBkBxUaxLum3-2" target="EXGWjDaBIBkBxUaxLum3-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-2" value="逻辑基点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="75" y="258" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXGWjDaBIBkBxUaxLum3-5">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="223" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-5" value="质疑: 先不谈怎么排除般若 只谈:大冢怎么排除?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="165" y="208" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXGWjDaBIBkBxUaxLum3-8" target="EXGWjDaBIBkBxUaxLum3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-8" value="A 老婆死在接近8点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-115" y="368" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXGWjDaBIBkBxUaxLum3-10" target="EXGWjDaBIBkBxUaxLum3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-10" value="B 老公老婆可互证" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="50" y="368" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXGWjDaBIBkBxUaxLum3-14" target="EXGWjDaBIBkBxUaxLum3-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-14" value="忘记细节了" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="-95" y="478" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXGWjDaBIBkBxUaxLum3-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-17" value="质疑: 怎么推出的?" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="-235" y="428" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXGWjDaBIBkBxUaxLum3-19" target="EXGWjDaBIBkBxUaxLum3-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-19" value="没看过老婆的本 (可能记错了)" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="20" y="478" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="EXGWjDaBIBkBxUaxLum3-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="110" y="443" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-21" value="怎么互证?&lt;br&gt;老婆当时在睡觉无法给老公证明" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="175" y="423" width="190" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-24" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.786;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="EXGWjDaBIBkBxUaxLum3-23" target="EXGWjDaBIBkBxUaxLum3-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="EXGWjDaBIBkBxUaxLum3-23" value="C&amp;nbsp;8点老公在见老婆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="1">
+          <mxGeometry x="409" y="368" width="130" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
