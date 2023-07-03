@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-02T12:13:22.335Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="AEL-7jkdK0V73oz9om62" version="21.5.1" type="github" pages="7">
+<mxfile host="app.diagrams.net" modified="2023-07-03T03:20:06.515Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="116TJjmqNsSSWvEOV5Ng" version="21.5.1" type="github" pages="7">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -525,10 +525,76 @@
     </mxGraphModel>
   </diagram>
   <diagram id="wzGaxyjO2dKxs8veSII6" name="格拉多之门">
-    <mxGraphModel dx="1332" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="E8yC14FSzQNaLtvGnOba-3" value="爱人" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E8yC14FSzQNaLtvGnOba-1" target="E8yC14FSzQNaLtvGnOba-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-1" value="彼得&lt;br&gt;实验者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="100" y="113" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-2" value="艾米" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="280" y="60" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-5" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E8yC14FSzQNaLtvGnOba-4" target="E8yC14FSzQNaLtvGnOba-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-21" value="姐妹" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E8yC14FSzQNaLtvGnOba-4" target="E8yC14FSzQNaLtvGnOba-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-4" value="索菲亚" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="50" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E8yC14FSzQNaLtvGnOba-6" target="E8yC14FSzQNaLtvGnOba-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-11" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E8yC14FSzQNaLtvGnOba-6" target="E8yC14FSzQNaLtvGnOba-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-6" value="爱德华&lt;br&gt;左右不分&lt;br&gt;2.29&lt;br&gt;角斗士" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="310" y="253" width="70" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-9" value="正常孩子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="420" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-10" value="萨尔|我&lt;br&gt;角斗士" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="480" y="268" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-15" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E8yC14FSzQNaLtvGnOba-13" target="E8yC14FSzQNaLtvGnOba-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-13" value="戴安娜&lt;br&gt;已经成为巫妖&lt;br&gt;即以为杀了赫拉" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-150" y="263" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-16" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E8yC14FSzQNaLtvGnOba-14" target="E8yC14FSzQNaLtvGnOba-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-14" value="赫拉&lt;br&gt;两人相貌一样" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="15" y="273" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-17" value="托马斯&lt;br&gt;实验者&lt;br&gt;寻找勋章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="385" y="-7" width="70" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-20" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="E8yC14FSzQNaLtvGnOba-19" target="E8yC14FSzQNaLtvGnOba-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-19" value="安德鲁&lt;br&gt;发出" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="180" y="263" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-23" value="3个勋章去向&lt;br&gt;谁和谁同一世界&lt;br&gt;谁书写习惯&lt;br&gt;时间线重新盘&lt;br&gt;重新个人任务" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="410" y="390" width="120" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-24" value="A 艾米死 分出B&lt;br&gt;B 索菲亚杀 xx&lt;br&gt;C戴安娜 杀赫拉&amp;nbsp; &amp;nbsp;|&amp;nbsp; 戴安娜意外死亡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="490" width="210" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-25" value="巫妖不穿越&lt;br&gt;必须有勋章&lt;br&gt;现在在A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="560" y="373" width="80" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="E8yC14FSzQNaLtvGnOba-26" value="密码箱1蓝色日记&amp;nbsp; &amp;nbsp;3红1黑 → 1是A世界托马斯 2我萨尔 来自A世界的勋章&lt;br&gt;树&amp;nbsp; 3黑1红&amp;nbsp; &amp;nbsp;→ 1是赫拉 来自B的勋章&lt;br&gt;深入线索 1黑3红 来自C的勋章&lt;br&gt;总共7次" style="rounded=1;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="200" y="530" width="520" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
