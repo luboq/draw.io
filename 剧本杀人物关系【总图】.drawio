@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-16T16:27:23.382Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="NaqVRl28LeCz92S8nsOv" version="21.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-17T20:51:45.939Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3L9wCkDk4Ru78ft4Dj5Z" version="21.6.1" type="github" pages="9">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -599,10 +599,10 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S15GHL9kzoGnownfyiPp" name="第 8 页">
-    <mxGraphModel dx="7060" dy="2940" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1967" dy="998" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
-        <mxCell id="1" parent="0" />
+        <mxCell id="1" style="" parent="0" />
         <mxCell id="534iu6KUq0DHEDGOCGgz-1" value="" style="endArrow=none;html=1;rounded=0;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="270" y="1610" as="sourcePoint" />
@@ -615,9 +615,6 @@
             <mxPoint x="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-3" value="A" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="675" width="30" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-4" value="B" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
           <mxGeometry x="399" width="30" height="30" as="geometry" />
         </mxCell>
@@ -627,161 +624,164 @@
         <mxCell id="534iu6KUq0DHEDGOCGgz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-7" target="534iu6KUq0DHEDGOCGgz-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-7" value="A戴安娜来收容所找A爱德华" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="870" y="48" width="90" height="40" as="geometry" />
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="534iu6KUq0DHEDGOCGgz-7" target="534iu6KUq0DHEDGOCGgz-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="534iu6KUq0DHEDGOCGgz-7" value="Ａ爱德华&lt;br&gt;被Ａ戴安娜拜访" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="870" y="130" width="90" height="40" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-8" target="534iu6KUq0DHEDGOCGgz-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-8" value="A爱德华来到城堡 看到A托马斯从阁楼下来（刚偷完A勋章）" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="870" y="168" width="90" height="60" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-8" value="Ａ爱德华来到城堡 看到Ａ托马斯从阁楼下来" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="870" y="224" width="90" height="51" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-10" target="534iu6KUq0DHEDGOCGgz-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-10" value="A爱德华相继与A萨尔和A安德鲁对话" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="870" y="308" width="90" height="50" as="geometry" />
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-16" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="534iu6KUq0DHEDGOCGgz-10" target="534iu6KUq0DHEDGOCGgz-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="534iu6KUq0DHEDGOCGgz-10" value="Ａ爱德华先后与&lt;br&gt;Ａ萨尔和&lt;br&gt;Ａ安德鲁交谈" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="870" y="327" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-12" value="A爱德华" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="80" y="-90" width="90" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-13" value="A安德鲁为什么不知道戴安娜的存在？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
-          <mxGeometry x="810" y="278" width="220" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-14" target="534iu6KUq0DHEDGOCGgz-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-14" value="A爱德华途径墓地 看到A萨尔给了A索菲亚东西（试管）" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="870" y="438" width="90" height="60" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-14" value="Ａ爱德华路过墓地 看到Ａ萨尔给Ａ索菲亚东西" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="870" y="457" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-16" target="534iu6KUq0DHEDGOCGgz-18" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-16" value="A爱德华去城堡捂死索菲亚偷A勋章 后又被戴安娜的赫拉人格迷晕 戴安娜的赫拉人格又把A勋章放回保险箱" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1110" width="90" height="110" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-16" value="Ａ爱德华去城堡　在阁楼捂黄发人＼拿Ａ勋章&lt;br&gt;＼被人捂晕&amp;nbsp;" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="870" y="1110" width="90" height="65" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-18" target="534iu6KUq0DHEDGOCGgz-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-18" value="A爱德华回到收容所 彼得（实际是穿越回来的安德鲁）前来提醒参加角斗" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="870" y="1300" width="90" height="80" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-18" value="Ａ爱德华回到收容所 父亲提醒参加角斗" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="870" y="1300" width="90" height="51" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-20" target="534iu6KUq0DHEDGOCGgz-22" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-20" value="角斗后 A爱德华在巷子与A安德鲁见面" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="534iu6KUq0DHEDGOCGgz-20" value="角斗后 Ａ爱德华在巷子与&lt;br&gt;Ａ安德鲁见面" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="870" y="1460" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-22" value="A爱德华来到城堡 提供房间号视角（已被换过）" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+        <mxCell id="534iu6KUq0DHEDGOCGgz-22" value="Ａ爱德华去城堡找萨尔&lt;br&gt;敲门无人应" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="870" y="1590" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-24" target="534iu6KUq0DHEDGOCGgz-25" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-24" value="A安德鲁看到俩人上楼阁楼（A萨尔和A托马斯）&lt;br&gt;彼得告知穿越" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="48" width="100" height="65" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-24" value="Ａ安德鲁看到&lt;br&gt;俩人上阁楼" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1126" y="41" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-25" target="534iu6KUq0DHEDGOCGgz-30" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-25" value="A安德鲁尝试开保险箱 听到女人（A戴安娜）上楼" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="175.5" width="100" height="45" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-25" value="Ａ安德鲁尝试&lt;br&gt;开保险箱&lt;br&gt;听到女人上楼" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1126" y="171" width="100" height="49.5" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-33" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-30" target="534iu6KUq0DHEDGOCGgz-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-30" value="A安德鲁回自己房间 与来访的A爱德华对话" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="313" width="100" height="45" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-30" value="Ａ安德鲁回房间 与来访的&lt;br&gt;Ａ爱德华交谈" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1126" y="327" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-35" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-32" target="534iu6KUq0DHEDGOCGgz-34" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-32" value="A安德鲁去酒馆见赫拉" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="408" width="100" height="45" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-32" value="Ａ安德鲁去酒馆&lt;br&gt;与Ｘ赫拉约会" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1126" y="432" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-37" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-34" target="534iu6KUq0DHEDGOCGgz-36" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-34" value="A安德鲁与A萨尔争吵 得知赫拉早已死 自己爱上的是戴安娜的赫拉人格&amp;nbsp; 杀死A萨尔" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="488" width="100" height="75" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-34" value="Ａ安德鲁与Ａ萨尔争吵&amp;nbsp; 杀死ＸＸ" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
+          <mxGeometry x="1126" y="532" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-39" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-36" target="534iu6KUq0DHEDGOCGgz-38" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-36" value="A安德鲁决定拿到勋章 回到20年前 拯救赫拉" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="878" width="100" height="50" as="geometry" />
+          <mxGeometry x="1126" y="878" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-38" target="534iu6KUq0DHEDGOCGgz-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-38" value="A安德鲁看到A彼得和A索菲亚在墓地交谈" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="964" width="100" height="50" as="geometry" />
+          <mxGeometry x="1126" y="964" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-40" target="534iu6KUq0DHEDGOCGgz-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-40" value="A安德鲁看到C托马斯去往城堡（已经埋了B勋章）" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1058" width="100" height="50" as="geometry" />
+          <mxGeometry x="1126" y="1058" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-44" target="534iu6KUq0DHEDGOCGgz-46" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-44" value="A安德鲁箱子见A爱德华" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1188" width="100" height="50" as="geometry" />
+          <mxGeometry x="1126" y="1188" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-46" target="534iu6KUq0DHEDGOCGgz-48" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-46" value="A安德鲁在酒馆与戴安娜的赫拉人格见面 归还迷药项链" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1318" width="100" height="60" as="geometry" />
+          <mxGeometry x="1126" y="1318" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-48" value="我看到萨尔 很惊讶他竟然没死" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
-          <mxGeometry x="1010" y="1458" width="100" height="40" as="geometry" />
+          <mxGeometry x="1126" y="1458" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-52" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-50" target="534iu6KUq0DHEDGOCGgz-51" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-50" value="A戴安娜与A萨尔约会" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="48" width="100" height="30" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-50" value="Ａ戴安娜与&lt;br&gt;Ａ萨尔约会" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="997" y="41" width="100" height="37" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-54" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-51" target="534iu6KUq0DHEDGOCGgz-53" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-51" value="A戴安娜去收容所见A爱德华" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="158" width="100" height="30" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-51" value="Ａ戴安娜&lt;br&gt;拜访Ａ爱德华" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="997" y="130" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-56" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-53" target="534iu6KUq0DHEDGOCGgz-55" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-53" value="A戴安娜短片 去城堡找萨尔 找不到（已被杀害）" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="558" width="100" height="50" as="geometry" />
+        <mxCell id="534iu6KUq0DHEDGOCGgz-53" value="Ａ戴安娜去城堡找Ａ萨尔 找不到" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
+          <mxGeometry x="997" y="588" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-58" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-55" target="534iu6KUq0DHEDGOCGgz-57" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-55" value="A戴安娜回公馆 抱怨找不到萨尔" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="638" width="100" height="40" as="geometry" />
+          <mxGeometry x="997" y="698" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-57" target="534iu6KUq0DHEDGOCGgz-59" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-57" value="A戴安娜与C萨尔在公馆约会" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="878" width="100" height="40" as="geometry" />
+          <mxGeometry x="997" y="878" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-62" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-59" target="534iu6KUq0DHEDGOCGgz-61" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-59" value="C萨尔离开后 A索菲亚来公馆告诉A戴安娜密码 被窗外的彼得听到" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1108" width="100" height="60" as="geometry" />
+          <mxGeometry x="997" y="1108" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-64" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-61" target="534iu6KUq0DHEDGOCGgz-63" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-61" value="A戴安娜去城堡 提供房间视角（还没换门牌）&lt;br&gt;彼得 萨尔 索菲亚房间都没人（此时彼得已死）" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1248" width="100" height="100" as="geometry" />
+          <mxGeometry x="997" y="1248" width="100" height="100" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-63" value="A戴安娜短片 回到公馆" style="whiteSpace=wrap;html=1;strokeColor=#82b366;fontFamily=Helvetica;fontSize=12;fillColor=#d5e8d4;" parent="1" vertex="1">
-          <mxGeometry x="1150" y="1538" width="100" height="40" as="geometry" />
+          <mxGeometry x="997" y="1538" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-65" value="" style="endArrow=none;html=1;rounded=0;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -1013,6 +1013,53 @@
         </mxCell>
         <mxCell id="N3QaemubIKMUFhmOn-wP-3" value="阴天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="-280" y="800" width="50" height="30" as="geometry" />
+        </mxCell>
+        <object label="真相" id="OMbWyA646CAy0Jv_vfwI-1">
+          <mxCell style="" parent="0" />
+        </object>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-5" value="Ａ托马斯刚偷完Ａ勋章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="849" y="272" width="138" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-6" value="Ａ安德鲁不认识戴安娜和艾米是&lt;br&gt;因为（根据萨尔的日记）巫妖继承人&lt;br&gt;不和陌生人接触" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=12;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="805" y="372" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-7" value="试管" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="921" y="505" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-8" value="&lt;div&gt;捂死Ａ索菲亚&lt;/div&gt;&lt;div&gt;被Ａ戴安娜的赫拉人格捂晕&lt;/div&gt;&lt;div&gt;Ａ戴安娜的赫拉人格&lt;/div&gt;&lt;div&gt;又把Ａ勋章放回保险箱&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="834" y="1172" width="162" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-9" value="父亲是Ａ彼得&lt;br&gt;实际是穿越回来的安德鲁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="840" y="1352" width="150" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-10" value="&lt;div&gt;门牌号已被换 实际敲的彼得的门&lt;/div&gt;&lt;div&gt;彼得已死 所以没人应&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="823.5" y="1638" width="189" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-13" value="Ａ萨尔和Ａ托马斯&lt;br&gt;彼得告知穿越" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="1119" y="77" width="114" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-15" value="Ａ戴安娜" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="1143" y="220" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-17" value="得知Ａ赫拉早已死&lt;br&gt;自己爱上的是&lt;br&gt;Ａ戴安娜的赫拉人格&lt;br&gt;杀死情敌Ａ萨尔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="1113" y="571" width="126" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-18" value="之后断片&lt;br&gt;切换到赫拉人格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="996" y="168" width="102" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-19" value="Ａ萨尔已被杀害" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="998" y="627" width="102" height="26" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="n-rfaU_LH0-TX_mwX7qK" name="格拉多之门 总时间线">
+    <mxGraphModel dx="-60" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5KW39g0c7u2h0kUlJEtY-1" value="A戴安娜来收容所找A爱德华" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="870" y="48" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
