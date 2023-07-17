@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T23:48:26.658Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="5xGNWFbYSpUT8YJ8NUkx" version="21.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-17T23:49:21.468Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="BSNVcM1Mtji6kejqbI2g" version="21.6.1" type="github" pages="8">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -615,7 +615,7 @@
             <mxPoint x="560" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-4" value="Ｂ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=27;" parent="1" vertex="1">
+        <mxCell id="534iu6KUq0DHEDGOCGgz-4" value="Ｂ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cdeb8b;fontSize=27;" parent="1" vertex="1">
           <mxGeometry x="389" y="-57" width="45" height="44" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-7" target="534iu6KUq0DHEDGOCGgz-8" edge="1">
@@ -942,16 +942,16 @@
         <mxCell id="534iu6KUq0DHEDGOCGgz-139" value="Ｃ托马斯把实验日志放在收容所&lt;br&gt;回到城堡" style="whiteSpace=wrap;html=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="609" y="1480" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="OMbWyA646CAy0Jv_vfwI-22" value="Ｃ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=27;" vertex="1" parent="1">
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-22" value="Ｃ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cdeb8b;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="43" y="-57" width="45" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="OMbWyA646CAy0Jv_vfwI-23" value="Ａ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#eeeeee;fontSize=27;" vertex="1" parent="1">
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-23" value="Ａ" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cdeb8b;fontSize=27;" vertex="1" parent="1">
           <mxGeometry x="736" y="-57" width="45" height="44" as="geometry" />
         </mxCell>
-        <mxCell id="kmEepl5OqRLgcHMTOxsx-1" value="第&lt;br style=&quot;font-size: 33px;&quot;&gt;一&lt;br style=&quot;font-size: 33px;&quot;&gt;天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=33;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="kmEepl5OqRLgcHMTOxsx-1" value="第&lt;br style=&quot;font-size: 33px;&quot;&gt;一&lt;br style=&quot;font-size: 33px;&quot;&gt;天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cdeb8b;fontSize=33;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="562" y="285" width="51" height="131" as="geometry" />
         </mxCell>
-        <mxCell id="kmEepl5OqRLgcHMTOxsx-2" value="第&lt;br style=&quot;font-size: 33px;&quot;&gt;二&lt;br style=&quot;font-size: 33px;&quot;&gt;天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=33;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="kmEepl5OqRLgcHMTOxsx-2" value="第&lt;br style=&quot;font-size: 33px;&quot;&gt;二&lt;br style=&quot;font-size: 33px;&quot;&gt;天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cdeb8b;fontSize=33;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="562" y="957" width="51" height="131" as="geometry" />
         </mxCell>
         <object label="真相" id="OMbWyA646CAy0Jv_vfwI-1">
