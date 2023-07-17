@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T23:36:39.524Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="0olp70rYr_5ogtcSKRFj" version="21.6.1" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-17T23:37:18.873Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="X-nqdmdNScigx5cHtmt7" version="21.6.1" type="github" pages="8">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -598,8 +598,8 @@
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="S15GHL9kzoGnownfyiPp" name="第 8 页">
-    <mxGraphModel dx="3064" dy="1416" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+  <diagram id="S15GHL9kzoGnownfyiPp" name="格拉多之门总图">
+    <mxGraphModel dx="3360" dy="1529" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -1267,17 +1267,6 @@
         </mxCell>
         <mxCell id="OMbWyA646CAy0Jv_vfwI-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-64">
           <mxGeometry x="880" y="490" width="10" height="13" as="geometry" />
-        </mxCell>
-      </root>
-    </mxGraphModel>
-  </diagram>
-  <diagram id="n-rfaU_LH0-TX_mwX7qK" name="格拉多之门 总时间线">
-    <mxGraphModel dx="-60" dy="282" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
-      <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="5KW39g0c7u2h0kUlJEtY-1" value="A戴安娜来收容所找A爱德华" style="whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
-          <mxGeometry x="870" y="48" width="90" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
