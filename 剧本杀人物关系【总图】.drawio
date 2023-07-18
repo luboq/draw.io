@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-17T23:55:12.480Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4RrUGsbKBCH6LukMBoKd" version="21.6.1" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-18T00:05:06.129Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Oj8rB4kigKs0iUOYPftu" version="21.6.1" type="github" pages="8">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1120,6 +1120,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="789" y="1421" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="kmEepl5OqRLgcHMTOxsx-3" value="Ａ托马斯之前埋下" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="-16" y="628" width="114" height="26" as="geometry" />
         </mxCell>
         <object label="bug" id="OMbWyA646CAy0Jv_vfwI-28">
           <mxCell parent="0" />
