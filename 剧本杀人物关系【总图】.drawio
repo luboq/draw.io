@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T18:26:32.230Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xonVbz7-j0g0I_ooLPVF" version="21.6.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-21T18:36:43.909Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="2qnP6jKJxX6Hn6tZ-YVk" version="21.6.3" type="github" pages="8">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -599,7 +599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S15GHL9kzoGnownfyiPp" name="格拉多之门总图">
-    <mxGraphModel dx="1558" dy="842" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1510" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -696,7 +696,7 @@
         <mxCell id="534iu6KUq0DHEDGOCGgz-41" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-38" target="534iu6KUq0DHEDGOCGgz-40" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-38" value="Ａ安德鲁墓地看到Ａ索菲亚与人交谈" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
+        <mxCell id="534iu6KUq0DHEDGOCGgz-38" value="Ａ安德鲁墓地看到Ａ彼得与人交谈" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" parent="1" vertex="1">
           <mxGeometry x="1126" y="944" width="100" height="44" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" parent="1" source="534iu6KUq0DHEDGOCGgz-40" target="534iu6KUq0DHEDGOCGgz-44" edge="1">
@@ -1044,8 +1044,8 @@
         <mxCell id="OMbWyA646CAy0Jv_vfwI-42" value="感觉时间过得很快&lt;br&gt;因为断片" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OMbWyA646CAy0Jv_vfwI-1" vertex="1">
           <mxGeometry x="990" y="1647" width="114" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="OMbWyA646CAy0Jv_vfwI-43" value="是Ａ彼得" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OMbWyA646CAy0Jv_vfwI-1" vertex="1">
-          <mxGeometry x="1145" y="988" width="66" height="26" as="geometry" />
+        <mxCell id="OMbWyA646CAy0Jv_vfwI-43" value="是Ａ索菲亚" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OMbWyA646CAy0Jv_vfwI-1" vertex="1">
+          <mxGeometry x="1139" y="988" width="78" height="26" as="geometry" />
         </mxCell>
         <mxCell id="OMbWyA646CAy0Jv_vfwI-47" value="此时Ｃ托马斯&lt;br&gt;已埋了B勋章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OMbWyA646CAy0Jv_vfwI-1" vertex="1">
           <mxGeometry x="1131" y="1215" width="90" height="41" as="geometry" />
@@ -1280,6 +1280,9 @@
         </mxCell>
         <mxCell id="OMbWyA646CAy0Jv_vfwI-128" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" parent="OMbWyA646CAy0Jv_vfwI-64" vertex="1">
           <mxGeometry x="880" y="490" width="10" height="13" as="geometry" />
+        </mxCell>
+        <mxCell id="xmA-8VdrUS7cOkHvcTfD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-64">
+          <mxGeometry x="1135" y="968" width="10" height="13" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
