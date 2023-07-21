@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-21T02:02:00.483Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="VN4oWPhU4aeMfIoxcjKv" version="21.6.3" type="github" pages="8">
+<mxfile host="app.diagrams.net" modified="2023-07-21T18:26:32.230Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="xonVbz7-j0g0I_ooLPVF" version="21.6.3" type="github" pages="8">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -599,7 +599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S15GHL9kzoGnownfyiPp" name="格拉多之门总图">
-    <mxGraphModel dx="1802" dy="935" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1558" dy="842" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -954,6 +954,15 @@
         <mxCell id="kmEepl5OqRLgcHMTOxsx-2" value="第&lt;br style=&quot;font-size: 33px;&quot;&gt;二&lt;br style=&quot;font-size: 33px;&quot;&gt;天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cdeb8b;fontSize=33;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="562" y="957" width="51" height="131" as="geometry" />
         </mxCell>
+        <mxCell id="xmA-8VdrUS7cOkHvcTfD-2" value="Ｃ萨尔与&lt;br&gt;Ａ彼得交谈" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="1">
+          <mxGeometry x="749" y="1593" width="80" height="43" as="geometry" />
+        </mxCell>
+        <mxCell id="xmA-8VdrUS7cOkHvcTfD-3" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="534iu6KUq0DHEDGOCGgz-109" target="xmA-8VdrUS7cOkHvcTfD-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="789" y="1619" as="targetPoint" />
+            <mxPoint x="789" y="1076" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
         <object label="真相" id="OMbWyA646CAy0Jv_vfwI-1">
           <mxCell style="" parent="0" />
         </object>
@@ -1107,25 +1116,17 @@
         <mxCell id="OMbWyA646CAy0Jv_vfwI-104" value="是戴安娜的赫拉人格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OMbWyA646CAy0Jv_vfwI-1" vertex="1">
           <mxGeometry x="1111" y="468" width="126" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="OMbWyA646CAy0Jv_vfwI-115" value="Ｃ萨尔杀&lt;br&gt;Ａ彼得的时间" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;" parent="OMbWyA646CAy0Jv_vfwI-1" vertex="1">
-          <mxGeometry x="749" y="1624" width="80" height="43" as="geometry" />
-        </mxCell>
         <mxCell id="OMbWyA646CAy0Jv_vfwI-117" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" parent="OMbWyA646CAy0Jv_vfwI-1" source="534iu6KUq0DHEDGOCGgz-133" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="699" y="1262" as="sourcePoint" />
             <mxPoint x="870" y="1213" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OMbWyA646CAy0Jv_vfwI-118" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="OMbWyA646CAy0Jv_vfwI-1" source="534iu6KUq0DHEDGOCGgz-109" target="OMbWyA646CAy0Jv_vfwI-115" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="789" y="1421" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="kmEepl5OqRLgcHMTOxsx-3" value="Ａ托马斯之前埋下" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="OMbWyA646CAy0Jv_vfwI-1" vertex="1">
           <mxGeometry x="-16" y="628" width="114" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="xmA-8VdrUS7cOkHvcTfD-1" value="换门牌号的时间" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
-          <mxGeometry x="738" y="1603" width="102" height="26" as="geometry" />
+        <mxCell id="xmA-8VdrUS7cOkHvcTfD-1" value="换门牌号的时间&lt;br&gt;Ｃ萨尔杀&lt;br style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;Ａ彼得的时间&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-1">
+          <mxGeometry x="739" y="1540" width="102" height="55" as="geometry" />
         </mxCell>
         <object label="bug" id="OMbWyA646CAy0Jv_vfwI-28">
           <mxCell parent="0" />
