@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:00:07.472Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7SdXOM-3KtzgIVadnb6I" version="21.6.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:58:44.623Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3nH_vTbwufdaZyngm0lE" version="21.6.3" type="github" pages="9">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1291,7 +1291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="格拉多之门总图-乱序" id="IsXf7aIAbHyR1voRMsN7">
-    <mxGraphModel dx="1669" dy="884" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="4206" dy="1851" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6SRNLbBrtN1btJhkexK4-0" />
         <mxCell id="6SRNLbBrtN1btJhkexK4-1" style="" parent="6SRNLbBrtN1btJhkexK4-0" />
@@ -1377,13 +1377,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-27" value="Ａ安德鲁去酒馆&lt;br&gt;与Ｘ赫拉约会" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-1">
-          <mxGeometry x="1126" y="342" width="100" height="38" as="geometry" />
+          <mxGeometry x="1126" y="372" width="100" height="38" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-28" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=classic;endFill=1;" edge="1" parent="6SRNLbBrtN1btJhkexK4-1" source="6SRNLbBrtN1btJhkexK4-29" target="6SRNLbBrtN1btJhkexK4-31">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-29" value="Ａ安德鲁与Ａ萨尔争吵&amp;nbsp; 杀死人" style="whiteSpace=wrap;html=1;strokeColor=#6c8ebf;fontFamily=Helvetica;fontSize=12;fillColor=#dae8fc;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-1">
-          <mxGeometry x="1126" y="442" width="100" height="41" as="geometry" />
+          <mxGeometry x="1126" y="472" width="100" height="41" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-30" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="6SRNLbBrtN1btJhkexK4-1" source="6SRNLbBrtN1btJhkexK4-31" target="6SRNLbBrtN1btJhkexK4-33">
           <mxGeometry relative="1" as="geometry" />
@@ -1641,10 +1641,10 @@
           <mxGeometry x="736" y="-57" width="45" height="44" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-112" value="第&lt;br style=&quot;font-size: 33px;&quot;&gt;一&lt;br style=&quot;font-size: 33px;&quot;&gt;天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cdeb8b;fontSize=33;fontFamily=Helvetica;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-1">
-          <mxGeometry x="562" y="285" width="51" height="131" as="geometry" />
+          <mxGeometry x="-80" y="290" width="51" height="131" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-113" value="第&lt;br style=&quot;font-size: 33px;&quot;&gt;二&lt;br style=&quot;font-size: 33px;&quot;&gt;天" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#cdeb8b;fontSize=33;fontFamily=Helvetica;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-1">
-          <mxGeometry x="506" y="899" width="51" height="131" as="geometry" />
+          <mxGeometry x="-80" y="900" width="51" height="131" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-114" value="Ｃ萨尔与&lt;br&gt;Ａ彼得交谈" style="whiteSpace=wrap;html=1;strokeColor=#666666;fontFamily=Helvetica;fontSize=12;fontColor=#333333;fillColor=#f5f5f5;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-1">
           <mxGeometry x="749" y="1093" width="80" height="43" as="geometry" />
@@ -1683,7 +1683,7 @@
           <mxGeometry x="1143" y="183" width="66" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-125" value="得知Ａ赫拉早已死&lt;br&gt;自己爱上的是&lt;br&gt;Ａ戴安娜的赫拉人格&lt;br&gt;杀死情敌Ａ萨尔" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-116">
-          <mxGeometry x="1113" y="481" width="126" height="70" as="geometry" />
+          <mxGeometry x="1113" y="511" width="126" height="70" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-126" value="之后断片&lt;br&gt;切换到赫拉人格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-116">
           <mxGeometry x="996" y="168" width="102" height="41" as="geometry" />
@@ -1764,7 +1764,7 @@
           <mxGeometry x="558" y="682" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-159" value="是戴安娜的赫拉人格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-116">
-          <mxGeometry x="1111" y="378" width="126" height="26" as="geometry" />
+          <mxGeometry x="1111" y="408" width="126" height="26" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-161" value="Ａ托马斯之前埋下" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-116">
           <mxGeometry x="-16" y="498" width="114" height="26" as="geometry" />
@@ -1776,7 +1776,7 @@
           <mxGeometry x="402" y="302" width="162" height="26" as="geometry" />
         </mxCell>
         <object label="bug" id="6SRNLbBrtN1btJhkexK4-163">
-          <mxCell parent="6SRNLbBrtN1btJhkexK4-0" />
+          <mxCell visible="0" parent="6SRNLbBrtN1btJhkexK4-0" />
         </object>
         <mxCell id="6SRNLbBrtN1btJhkexK4-164" value="悲剧的发生指什么？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-163">
           <mxGeometry x="-23" y="189" width="130" height="30" as="geometry" />
@@ -1875,10 +1875,10 @@
           <mxGeometry x="912" y="387" width="10" height="13" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-196" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-166">
-          <mxGeometry x="1153" y="363" width="10" height="13" as="geometry" />
+          <mxGeometry x="1153" y="393" width="10" height="13" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-197" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-166">
-          <mxGeometry x="1189" y="449" width="10" height="13" as="geometry" />
+          <mxGeometry x="1189" y="479" width="10" height="13" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-198" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-166">
           <mxGeometry x="773" y="797" width="10" height="13" as="geometry" />
