@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T03:58:44.623Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3nH_vTbwufdaZyngm0lE" version="21.6.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-22T04:13:12.524Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="o09eEaVb0h41C13UvxdM" version="21.6.3" type="github" pages="9">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1291,7 +1291,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="格拉多之门总图-乱序" id="IsXf7aIAbHyR1voRMsN7">
-    <mxGraphModel dx="4206" dy="1851" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1288" dy="739" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6SRNLbBrtN1btJhkexK4-0" />
         <mxCell id="6SRNLbBrtN1btJhkexK4-1" style="" parent="6SRNLbBrtN1btJhkexK4-0" />
@@ -1785,7 +1785,7 @@
           <mxGeometry x="298" y="18" width="102" height="26" as="geometry" />
         </mxCell>
         <object label="掩码" id="6SRNLbBrtN1btJhkexK4-166">
-          <mxCell parent="6SRNLbBrtN1btJhkexK4-0" />
+          <mxCell visible="0" parent="6SRNLbBrtN1btJhkexK4-0" />
         </object>
         <mxCell id="6SRNLbBrtN1btJhkexK4-167" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-166">
           <mxGeometry x="204" y="54" width="10" height="13" as="geometry" />
