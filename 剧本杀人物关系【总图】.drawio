@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T02:58:00.432Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WoCwUmqUToM877LmuR_n" version="21.6.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-22T02:59:05.713Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-I7VSlCcEdqURR_LaCId" version="21.6.3" type="github" pages="9">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1583,7 +1583,7 @@
             <mxPoint x="487.0000000000002" y="343.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6SRNLbBrtN1btJhkexK4-94" value="Ｃ托马斯偷听&lt;br&gt;Ｂ索菲亚和&lt;br&gt;Ｂ赫拉交谈" style="whiteSpace=wrap;html=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-1">
+        <mxCell id="6SRNLbBrtN1btJhkexK4-94" value="Ｃ托马斯偷听&lt;br&gt;Ｂ索菲亚和&lt;br&gt;Ｂ戴安娜交谈" style="whiteSpace=wrap;html=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-1">
           <mxGeometry x="442" y="253.5" width="90" height="52" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-95" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" edge="1" parent="6SRNLbBrtN1btJhkexK4-1" source="6SRNLbBrtN1btJhkexK4-96" target="6SRNLbBrtN1btJhkexK4-98">
@@ -1653,7 +1653,7 @@
           </mxGeometry>
         </mxCell>
         <object label="真相" id="6SRNLbBrtN1btJhkexK4-116">
-          <mxCell style="" visible="0" parent="6SRNLbBrtN1btJhkexK4-0" />
+          <mxCell style="" parent="6SRNLbBrtN1btJhkexK4-0" />
         </object>
         <mxCell id="6SRNLbBrtN1btJhkexK4-117" value="Ａ托马斯刚偷完Ａ勋章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-116">
           <mxGeometry x="849" y="184" width="138" height="26" as="geometry" />
@@ -1769,8 +1769,11 @@
         <mxCell id="6SRNLbBrtN1btJhkexK4-162" value="换门牌号的时间&lt;br&gt;Ｃ萨尔杀&lt;br style=&quot;border-color: var(--border-color); color: rgb(51, 51, 51);&quot;&gt;&lt;span style=&quot;color: rgb(51, 51, 51);&quot;&gt;Ａ彼得的时间&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-116">
           <mxGeometry x="739" y="1040" width="102" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="2Jf4fQRXNCiSjOQQjF93-0" value="实际是Ｂ赫拉的戴安娜人格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-116">
+          <mxGeometry x="402" y="302" width="162" height="26" as="geometry" />
+        </mxCell>
         <object label="bug" id="6SRNLbBrtN1btJhkexK4-163">
-          <mxCell visible="0" parent="6SRNLbBrtN1btJhkexK4-0" />
+          <mxCell parent="6SRNLbBrtN1btJhkexK4-0" />
         </object>
         <mxCell id="6SRNLbBrtN1btJhkexK4-164" value="悲剧的发生指什么？" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#36393d;fillColor=#ffff88;fontSize=12;fontFamily=Helvetica;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-163">
           <mxGeometry x="-23" y="189" width="130" height="30" as="geometry" />
@@ -1812,7 +1815,7 @@
           <mxGeometry x="458" y="274" width="10" height="13" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-177" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-166">
-          <mxGeometry x="458" y="289" width="10" height="13" as="geometry" />
+          <mxGeometry x="452" y="289" width="10" height="13" as="geometry" />
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-178" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-166">
           <mxGeometry x="446" y="376" width="10" height="13" as="geometry" />
