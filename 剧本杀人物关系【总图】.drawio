@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T02:59:05.713Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="-I7VSlCcEdqURR_LaCId" version="21.6.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-07-22T03:00:07.472Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="7SdXOM-3KtzgIVadnb6I" version="21.6.3" type="github" pages="9">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -599,7 +599,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S15GHL9kzoGnownfyiPp" name="格拉多之门总图">
-    <mxGraphModel dx="1510" dy="823" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1732" dy="908" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" style="" parent="0" />
@@ -894,7 +894,7 @@
             <mxPoint x="487.0000000000002" y="413.5" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="534iu6KUq0DHEDGOCGgz-119" value="Ｃ托马斯偷听&lt;br&gt;Ｂ索菲亚和&lt;br&gt;Ｂ赫拉交谈" style="whiteSpace=wrap;html=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
+        <mxCell id="534iu6KUq0DHEDGOCGgz-119" value="Ｃ托马斯偷听&lt;br&gt;Ｂ索菲亚和&lt;br&gt;Ｂ戴安娜交谈" style="whiteSpace=wrap;html=1;strokeColor=#b85450;fontFamily=Helvetica;fontSize=12;fillColor=#f8cecc;" parent="1" vertex="1">
           <mxGeometry x="442" y="323.5" width="90" height="52" as="geometry" />
         </mxCell>
         <mxCell id="534iu6KUq0DHEDGOCGgz-126" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=12;fontColor=default;endArrow=classic;" parent="1" source="534iu6KUq0DHEDGOCGgz-123" target="534iu6KUq0DHEDGOCGgz-125" edge="1">
@@ -1171,7 +1171,7 @@
           <mxGeometry x="458" y="344" width="10" height="13" as="geometry" />
         </mxCell>
         <mxCell id="OMbWyA646CAy0Jv_vfwI-82" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" parent="OMbWyA646CAy0Jv_vfwI-64" vertex="1">
-          <mxGeometry x="458" y="359" width="10" height="13" as="geometry" />
+          <mxGeometry x="452" y="359" width="10" height="13" as="geometry" />
         </mxCell>
         <mxCell id="OMbWyA646CAy0Jv_vfwI-83" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" parent="OMbWyA646CAy0Jv_vfwI-64" vertex="1">
           <mxGeometry x="446" y="446" width="10" height="13" as="geometry" />
@@ -1284,11 +1284,14 @@
         <mxCell id="xmA-8VdrUS7cOkHvcTfD-4" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-64">
           <mxGeometry x="1135" y="968" width="10" height="13" as="geometry" />
         </mxCell>
+        <mxCell id="0s2lwI3GJG9qf41s9QP--1" value="实际是Ｂ赫拉的戴安娜人格" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="OMbWyA646CAy0Jv_vfwI-64">
+          <mxGeometry x="403" y="373" width="162" height="26" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram name="格拉多之门总图-乱序" id="IsXf7aIAbHyR1voRMsN7">
-    <mxGraphModel dx="1466" dy="806" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1669" dy="884" grid="0" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" background="none" math="0" shadow="0">
       <root>
         <mxCell id="6SRNLbBrtN1btJhkexK4-0" />
         <mxCell id="6SRNLbBrtN1btJhkexK4-1" style="" parent="6SRNLbBrtN1btJhkexK4-0" />
@@ -1653,7 +1656,7 @@
           </mxGeometry>
         </mxCell>
         <object label="真相" id="6SRNLbBrtN1btJhkexK4-116">
-          <mxCell style="" parent="6SRNLbBrtN1btJhkexK4-0" />
+          <mxCell style="" visible="0" parent="6SRNLbBrtN1btJhkexK4-0" />
         </object>
         <mxCell id="6SRNLbBrtN1btJhkexK4-117" value="Ａ托马斯刚偷完Ａ勋章" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-116">
           <mxGeometry x="849" y="184" width="138" height="26" as="geometry" />
