@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-07-22T04:13:12.524Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="o09eEaVb0h41C13UvxdM" version="21.6.3" type="github" pages="9">
+<mxfile host="app.diagrams.net" modified="2023-08-04T16:13:05.055Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Ckgoe9oQm530Dt5_7MMJ" version="21.6.5" type="github" pages="10">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -1930,6 +1930,70 @@
         </mxCell>
         <mxCell id="6SRNLbBrtN1btJhkexK4-214" value="" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;fillColor=#000000;" vertex="1" parent="6SRNLbBrtN1btJhkexK4-166">
           <mxGeometry x="1135" y="808" width="10" height="13" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="NzH7ouHhtco5YfU0ZvXW" name="星夜叙梦曲">
+    <mxGraphModel dx="1332" dy="508" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-1" value="隼人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-3" value="姐姐和X" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="cDK_nxY-NIaRFoyxy4Ah-2" target="cDK_nxY-NIaRFoyxy4Ah-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-5" value="夫妻" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cDK_nxY-NIaRFoyxy4Ah-2" target="cDK_nxY-NIaRFoyxy4Ah-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-2" value="爱理" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="220" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-7" value="姐姐和弟弟" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cDK_nxY-NIaRFoyxy4Ah-4" target="cDK_nxY-NIaRFoyxy4Ah-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-11" value="亲女儿" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cDK_nxY-NIaRFoyxy4Ah-4" target="cDK_nxY-NIaRFoyxy4Ah-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-13" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cDK_nxY-NIaRFoyxy4Ah-4" target="cDK_nxY-NIaRFoyxy4Ah-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-16" value="养女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cDK_nxY-NIaRFoyxy4Ah-4" target="cDK_nxY-NIaRFoyxy4Ah-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-4" value="千裕&lt;br&gt;怕水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="350" y="215" width="50" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-9" value="女儿" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cDK_nxY-NIaRFoyxy4Ah-6" target="cDK_nxY-NIaRFoyxy4Ah-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-6" value="有纪&lt;br&gt;丈夫意外去世&lt;br&gt;怕水" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="465" y="25" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-8" value="未来&lt;br&gt;950叙梦使" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="485" y="145" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-10" value="加奈&lt;br&gt;940死" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="260" y="330" width="60" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-14" value="亲女儿" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cDK_nxY-NIaRFoyxy4Ah-12" target="cDK_nxY-NIaRFoyxy4Ah-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-17" value="养女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="cDK_nxY-NIaRFoyxy4Ah-12" target="cDK_nxY-NIaRFoyxy4Ah-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-12" value="千裕的前妻" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="460" y="220" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-15" value="艺&lt;br&gt;960叙梦使" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="555" y="330" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cDK_nxY-NIaRFoyxy4Ah-18" value="结城" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="105" y="118" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
