@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-09T06:14:10.805Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="CZHRlX1Q-uncWWYJyQJ6" version="21.6.5" type="github" pages="11">
+<mxfile host="app.diagrams.net" modified="2023-08-09T06:14:52.970Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="LqUEYPz-JNsCVlTD3jyG" version="21.6.5" type="github" pages="11">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2210,7 +2210,7 @@
           <mxGeometry x="568" y="707" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="UKrJf8o2WSFrHlKdLdEo-1" value="女友&lt;br&gt;上月刚分手" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="326" y="610" width="78" height="41" as="geometry" />
+          <mxGeometry x="303" y="610" width="78" height="41" as="geometry" />
         </mxCell>
         <mxCell id="UKrJf8o2WSFrHlKdLdEo-3" value="女友" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="28" y="511" width="42" height="26" as="geometry" />
