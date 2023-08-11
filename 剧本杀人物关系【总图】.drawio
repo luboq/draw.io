@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-11T19:25:22.011Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="70jB5BEf1q-8Da0Now1B" version="21.6.5" type="github" pages="12">
+<mxfile host="app.diagrams.net" modified="2023-08-11T20:54:22.758Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="3N4uMrIcH-4MvxR_iBW8" version="21.6.5" type="github" pages="12">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2415,7 +2415,7 @@
         <mxCell id="mTbwgPKJtjAB2VwDPzEC-2" value="明信片4人" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LBsPhsYK7XYqb--e202U-64" target="LBsPhsYK7XYqb--e202U-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LBsPhsYK7XYqb--e202U-64" value="伍榕&lt;br&gt;女 39岁|19&lt;br&gt;项目经理&lt;br&gt;18年从X跳槽到Y&lt;br&gt;喜欢计划 讨厌突发事件&lt;br&gt;两面三刀 爱中伤他人&lt;br&gt;举报下属" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontSize=11;fontFamily=Helvetica;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="LBsPhsYK7XYqb--e202U-64" value="⑤伍榕&lt;br&gt;女 39岁|19&lt;br&gt;项目经理&lt;br&gt;18年从X跳槽到Y&lt;br&gt;喜欢计划 讨厌突发事件&lt;br&gt;两面三刀 爱中伤他人&lt;br&gt;举报下属" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#432D57;fillColor=#76608a;fontSize=11;fontFamily=Helvetica;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="704" y="550" width="141" height="113" as="geometry" />
         </mxCell>
         <mxCell id="LBsPhsYK7XYqb--e202U-65" value="仇家&lt;br&gt;15年泼红油漆&lt;br&gt;伍榕报案" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=11;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
@@ -2457,11 +2457,11 @@
         <mxCell id="LBsPhsYK7XYqb--e202U-83" value="有家属" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=11;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="788" y="320" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LBsPhsYK7XYqb--e202U-86" value="樊莹&lt;br&gt;重复节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=11;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="537" y="896" width="66" height="41" as="geometry" />
+        <mxCell id="LBsPhsYK7XYqb--e202U-86" value="樊莹&lt;br&gt;重复节点&lt;br&gt;时间上排除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=11;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="498" y="889.5" width="78" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LBsPhsYK7XYqb--e202U-87" value="戴晓菲&lt;br&gt;重复节点" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=11;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="629" y="896.5" width="66" height="41" as="geometry" />
+        <mxCell id="LBsPhsYK7XYqb--e202U-87" value="戴晓菲&lt;br&gt;重复节点&lt;br&gt;24号上午考研可排除" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=11;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="589" y="889.5" width="127" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
