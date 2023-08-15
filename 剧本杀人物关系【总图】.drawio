@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-15T12:48:18.548Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="KNxoYUTM1c-WgXs4Z4s0" version="21.6.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-15T13:12:36.209Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Lhb0Y1jnVxI3693OQm_g" version="21.6.8" type="github" pages="13">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2477,11 +2477,17 @@
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-6" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-2" target="LzRQt7eNvhhEHTLnyGcN-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-29" value="叔叔" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-2" target="LzRQt7eNvhhEHTLnyGcN-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-31" value="母女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-2" target="LzRQt7eNvhhEHTLnyGcN-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-2" value="林曦&lt;br&gt;报社记者" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="178" y="141" width="66" height="41" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-3" value="主编" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="189" y="42" width="42" height="26" as="geometry" />
+          <mxGeometry x="300" y="28" width="42" height="26" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-8" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-5" target="LzRQt7eNvhhEHTLnyGcN-7">
           <mxGeometry relative="1" as="geometry" />
@@ -2501,32 +2507,86 @@
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-9" value="秦珮&lt;br&gt;34年生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
           <mxGeometry x="549" y="141" width="55" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-14" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-11" target="LzRQt7eNvhhEHTLnyGcN-13">
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-16" value="母子" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#f5f5f5;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-11" target="LzRQt7eNvhhEHTLnyGcN-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-16" value="母子" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-11" target="LzRQt7eNvhhEHTLnyGcN-15">
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-45" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-11" target="LzRQt7eNvhhEHTLnyGcN-44">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-11" value="苏千帆&lt;br&gt;33年生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="671" y="141" width="55" height="41" as="geometry" />
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-11" value="苏千帆&lt;br&gt;33年生&lt;br&gt;大少爷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="671" y="134" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-18" value="母子" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-13" target="LzRQt7eNvhhEHTLnyGcN-17">
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-18" value="母子" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#f5f5f5;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-13" target="LzRQt7eNvhhEHTLnyGcN-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-13" value="苏千舟&lt;br&gt;33年生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="805" y="141" width="55" height="41" as="geometry" />
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-13" value="苏千舟&lt;br&gt;33年生&lt;br&gt;二少爷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="134" width="55" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-20" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-15" target="LzRQt7eNvhhEHTLnyGcN-19">
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-20" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#f5f5f5;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-15" target="LzRQt7eNvhhEHTLnyGcN-19">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-15" value="大太太" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="671" y="42" width="54" height="26" as="geometry" />
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-47" value="母女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-15" target="LzRQt7eNvhhEHTLnyGcN-44">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-17" value="四姨太" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="805" y="42" width="54" height="26" as="geometry" />
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-15" value="大太太" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="746" y="43.5" width="54" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-19" value="苏万霖&lt;br&gt;家主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
-          <mxGeometry x="671" y="-71" width="54" height="41" as="geometry" />
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-17" value="四姨太" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1085" y="42" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#f5f5f5;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-19" target="LzRQt7eNvhhEHTLnyGcN-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-53" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-19" target="LzRQt7eNvhhEHTLnyGcN-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-19" value="苏万霖&lt;br&gt;家主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="941" y="-70" width="54" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-28" value="林霄&lt;br&gt;刑侦支队副队长" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="14" y="142" width="102" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-30" value="夏荷" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
+          <mxGeometry x="190" y="28" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-37" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-32" target="LzRQt7eNvhhEHTLnyGcN-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-32" value="姚玲&lt;br&gt;丫鬟" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="678" y="276" width="42" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-41" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-36" target="LzRQt7eNvhhEHTLnyGcN-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-36" value="祥姨&lt;br&gt;大太太陪嫁丫鬟&lt;br&gt;照顾苏千帆" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="785" y="269" width="102" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-43" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-40" target="LzRQt7eNvhhEHTLnyGcN-42">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-40" value="张妈&lt;br&gt;厨娘" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="997" y="276" width="42" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-42" value="老管家&lt;br&gt;31年告老还乡" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="1095" y="277" width="91" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-49" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-44" target="LzRQt7eNvhhEHTLnyGcN-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-44" value="苏曼秋&lt;br&gt;三小姐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="814" y="141" width="54" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-50" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-48" target="LzRQt7eNvhhEHTLnyGcN-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-48" value="苏曼夏&lt;br&gt;二小姐" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="941" y="142" width="54" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-52" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-51" target="LzRQt7eNvhhEHTLnyGcN-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-51" value="二姨太&lt;br&gt;产女难产去世" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+          <mxGeometry x="923" y="36" width="90" height="41" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
