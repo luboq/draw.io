@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-16T10:50:25.793Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="4RoD3BK7fffPNwaYa8MK" version="21.6.8" type="github" pages="13">
+<mxfile host="app.diagrams.net" modified="2023-08-16T11:16:44.451Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="SLweo7ZVkrXd1T98mnzw" version="21.6.8" type="github" pages="13">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2531,7 +2531,7 @@
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-82" value="父子" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-13" target="LzRQt7eNvhhEHTLnyGcN-81">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-13" value="苏千舟&lt;br&gt;33年生&lt;br&gt;二少爷&lt;br&gt;76年病逝&lt;br&gt;赌博" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-13" value="苏千舟&lt;br&gt;33年生&lt;br&gt;二少爷&lt;br&gt;76年病逝&lt;br&gt;赌博" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1079" y="120" width="67" height="84" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-20" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#f5f5f5;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-15" target="LzRQt7eNvhhEHTLnyGcN-19">
@@ -2543,7 +2543,7 @@
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-15" value="大太太&lt;br&gt;52年5月卒" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
           <mxGeometry x="736" y="36.5" width="74" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-17" value="王洁怡&lt;br&gt;四姨太&lt;br&gt;81年去世" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-17" value="王洁怡&lt;br&gt;四姨太&lt;br&gt;81年去世" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
           <mxGeometry x="1079" y="28" width="67" height="55" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-21" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=#666666;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;fillColor=#f5f5f5;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-19" target="LzRQt7eNvhhEHTLnyGcN-17">
@@ -2582,8 +2582,8 @@
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-49" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-44" target="LzRQt7eNvhhEHTLnyGcN-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-44" value="苏曼秋&lt;br&gt;三小姐&lt;br&gt;93年病逝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="1">
-          <mxGeometry x="808" y="134" width="67" height="55" as="geometry" />
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-44" value="苏曼秋&lt;br&gt;三小姐&lt;br&gt;50年左右嫁人&lt;br&gt;93年病逝" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#b85450;fillColor=#f8cecc;" vertex="1" parent="1">
+          <mxGeometry x="796" y="127" width="91" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-50" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-48" target="LzRQt7eNvhhEHTLnyGcN-13">
           <mxGeometry relative="1" as="geometry" />
@@ -2594,7 +2594,7 @@
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-52" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-51" target="LzRQt7eNvhhEHTLnyGcN-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-51" value="二姨太&lt;br&gt;产女难产去世" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;" vertex="1" parent="1">
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-51" value="二姨太&lt;br&gt;产女难产去世" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fillColor=#f8cecc;strokeColor=#b85450;" vertex="1" parent="1">
           <mxGeometry x="923" y="36" width="90" height="41" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-54" value="曹阿姨&lt;br&gt;隔壁邻居&lt;br&gt;55年生&lt;br&gt;退休教师" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;" vertex="1" parent="1">
@@ -2609,8 +2609,8 @@
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-62" value="弟弟" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-56" target="LzRQt7eNvhhEHTLnyGcN-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-56" value="谢君时&lt;br&gt;31年生" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="407" y="-210" width="55" height="41" as="geometry" />
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-56" value="谢君时&lt;br&gt;31年生&lt;br&gt;52年7月回台湾" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="386" y="-217" width="98" height="55" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-57" value="谢匀堂&lt;br&gt;50年弃政从商&lt;br&gt;80年代退休&lt;br&gt;公司交给谢君时" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="384" y="-350" width="102" height="70" as="geometry" />
@@ -2628,7 +2628,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-59" value="周明玉&lt;br&gt;54年进入公司" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="523" y="-210" width="91" height="41" as="geometry" />
+          <mxGeometry x="573" y="-210" width="91" height="41" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-77" value="弟弟" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-61" target="LzRQt7eNvhhEHTLnyGcN-76">
           <mxGeometry relative="1" as="geometry" />
@@ -2642,8 +2642,8 @@
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-75" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="LzRQt7eNvhhEHTLnyGcN-65" target="LzRQt7eNvhhEHTLnyGcN-71">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="LzRQt7eNvhhEHTLnyGcN-65" value="谢英杰&lt;br&gt;大儿子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="440" y="-103" width="54" height="41" as="geometry" />
+        <mxCell id="LzRQt7eNvhhEHTLnyGcN-65" value="谢英杰&lt;br&gt;大儿子&lt;br&gt;浪荡子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="440" y="-110" width="54" height="55" as="geometry" />
         </mxCell>
         <mxCell id="LzRQt7eNvhhEHTLnyGcN-67" value="一女儿&lt;br&gt;移居法国" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#6c8ebf;fillColor=#dae8fc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
           <mxGeometry x="645" y="-104" width="66" height="41" as="geometry" />
