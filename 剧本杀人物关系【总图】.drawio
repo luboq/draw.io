@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-08-31T01:13:33.619Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="zFFO8A66reJqWh0mVe1k" version="21.6.9" type="github" pages="14">
+<mxfile host="app.diagrams.net" modified="2023-08-31T01:35:58.472Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="rJLFXuF68eJs0wA2DYGZ" version="21.6.9" type="github" pages="14">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2739,8 +2739,8 @@
         <mxCell id="M_BoUF7Mq5KuFX-3Y7G3-6" value="母亲&lt;br&gt;比高余笙大2岁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="75" y="120" width="97" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="M_BoUF7Mq5KuFX-3Y7G3-8" value="周凯 村长&lt;br&gt;&lt;div&gt;编造黑煞故事&lt;/div&gt;&lt;div&gt;当年棒打鸳鸯 有个坏结果&lt;/div&gt;&lt;div&gt;大女儿乱嫁 二女儿不嫁&lt;/div&gt;&lt;div&gt;白头发&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="47" y="-47" width="153" height="84" as="geometry" />
+        <mxCell id="M_BoUF7Mq5KuFX-3Y7G3-8" value="周凯 村长&lt;br&gt;&lt;div&gt;编造黑煞故事&lt;/div&gt;&lt;div&gt;当年棒打鸳鸯 有个坏结果&lt;/div&gt;&lt;div&gt;大女儿乱嫁 二女儿不嫁&lt;/div&gt;&lt;div&gt;白头发&lt;/div&gt;&lt;div&gt;鞋26cm 42码&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="47" y="-54" width="153" height="98" as="geometry" />
         </mxCell>
         <mxCell id="M_BoUF7Mq5KuFX-3Y7G3-15" value="" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="M_BoUF7Mq5KuFX-3Y7G3-10" target="M_BoUF7Mq5KuFX-3Y7G3-14">
           <mxGeometry relative="1" as="geometry" />
@@ -2759,8 +2759,8 @@
             <mxPoint x="452" y="162" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="M_BoUF7Mq5KuFX-3Y7G3-14" value="秦梦南 女 单身&lt;br&gt;&lt;div&gt;周雨施工队的设计师&lt;/div&gt;&lt;div&gt;父亲被周芸造谣害死&lt;/div&gt;&lt;div&gt;学习好&lt;/div&gt;&lt;div&gt;右眼有痣&lt;/div&gt;&lt;div&gt;村里人看怪物的眼神看秦梦南&lt;/div&gt;&lt;div&gt;修正这一切&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="365" y="262" width="174" height="113" as="geometry" />
+        <mxCell id="M_BoUF7Mq5KuFX-3Y7G3-14" value="秦梦南 女 单身&lt;br&gt;&lt;div&gt;周雨施工队的设计师&lt;/div&gt;&lt;div&gt;父亲被周芸造谣害死&lt;/div&gt;&lt;div&gt;学习好&lt;/div&gt;&lt;div&gt;右眼有痣&lt;/div&gt;&lt;div&gt;村里人看怪物的眼神看秦梦南&lt;/div&gt;&lt;div&gt;修正这一切&lt;/div&gt;&lt;div&gt;父亲死后 改了名字 只在正式场合用&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="350" y="255" width="205" height="127" as="geometry" />
         </mxCell>
         <mxCell id="M_BoUF7Mq5KuFX-3Y7G3-16" value="秦冉&lt;br&gt;10.2周芸传播秦冉和周凯是同性恋&lt;br&gt;10.8烧炭密室 因密室判定自杀&lt;br&gt;插队知青" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="354" y="98" width="197" height="70" as="geometry" />
@@ -2780,8 +2780,8 @@
         <mxCell id="Q5VitkcboV1F9nRcOL3J-3" value="父女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="Q5VitkcboV1F9nRcOL3J-2" target="M_BoUF7Mq5KuFX-3Y7G3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="Q5VitkcboV1F9nRcOL3J-2" value="周雨 女&lt;br&gt;施工队包工头&lt;br&gt;姐姐在红黑馆&lt;br&gt;是高余笙的小姨子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-54" y="101" width="114" height="70" as="geometry" />
+        <mxCell id="Q5VitkcboV1F9nRcOL3J-2" value="周雨 女 奔四&lt;br&gt;施工队包工头&lt;br&gt;姐姐在红黑馆&lt;br&gt;是高余笙的小姨子&lt;br&gt;修正这一切" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d79b00;fillColor=#ffe6cc;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-54" y="94" width="114" height="84" as="geometry" />
         </mxCell>
         <mxCell id="Q5VitkcboV1F9nRcOL3J-5" value="周芸&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;不久前受伤 脸上伤疤&lt;br&gt;红黑馆女主人&lt;br&gt;做饭难吃&lt;br&gt;其女儿在来的四人里" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-188.5" y="-54" width="129" height="84" as="geometry" />
