@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T18:29:16.506Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="HIz6mttteEqCtoXjkRld" version="22.1.9" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-12-14T18:31:41.546Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="eppVHgodLFtNsETnpH4r" version="22.1.9" type="github" pages="16">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="4157" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2982,8 +2982,8 @@
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-26" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="_PQuD7MYsxTY_zQTdgSw-24" target="_PQuD7MYsxTY_zQTdgSw-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_PQuD7MYsxTY_zQTdgSw-24" value="黄晨楠&lt;br&gt;哥哥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-673" y="-67" width="54" height="41" as="geometry" />
+        <mxCell id="_PQuD7MYsxTY_zQTdgSw-24" value="黄晨楠 黑11&lt;br&gt;哥哥" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-687" y="-67" width="82" height="41" as="geometry" />
         </mxCell>
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-25" value="黄槿 红3&lt;br&gt;妹妹&lt;br&gt;比黄子桦小1岁" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-708" y="9" width="97" height="55" as="geometry" />
@@ -3048,7 +3048,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="_PQuD7MYsxTY_zQTdgSw-55" value="陈曦&lt;br&gt;投奔陈萱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+        <mxCell id="_PQuD7MYsxTY_zQTdgSw-55" value="陈曦 红8&lt;br&gt;投奔陈萱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-841" y="-170" width="66" height="41" as="geometry" />
         </mxCell>
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-57" value="陈晗 红5&lt;br&gt;贪婪罪&lt;br&gt;不愿意忏悔和刻印&lt;br&gt;去世" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
@@ -3069,8 +3069,8 @@
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-64" value="瞳瞳/黄瑶琳 红2&lt;br&gt;妈妈独眼龙" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
           <mxGeometry x="-58" y="211" width="103" height="41" as="geometry" />
         </mxCell>
-        <mxCell id="_PQuD7MYsxTY_zQTdgSw-66" value="&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;8&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;br&gt;18" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
-          <mxGeometry x="-919" y="-38" width="31" height="271" as="geometry" />
+        <mxCell id="_PQuD7MYsxTY_zQTdgSw-71" value="黄晨楠 和 陈晗 面具失踪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="1">
+          <mxGeometry x="-958" y="160" width="148" height="26" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
