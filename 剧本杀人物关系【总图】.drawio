@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-14T19:24:17.068Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="YOdIijPvHjlaqPr4Tn4X" version="22.1.9" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-12-14T19:50:26.292Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="szXyz9OGhtSsy_FuTZe7" version="22.1.9" type="github" pages="16">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="4157" dy="2439" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3038,8 +3038,8 @@
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-52" value="后夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="_PQuD7MYsxTY_zQTdgSw-51" target="_PQuD7MYsxTY_zQTdgSw-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_PQuD7MYsxTY_zQTdgSw-51" value="叶寒 红15&lt;br&gt;第一个逃避忏悔&lt;br&gt;遗传罪责" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
-          <mxGeometry x="-498" y="-162" width="102" height="55" as="geometry" />
+        <mxCell id="_PQuD7MYsxTY_zQTdgSw-51" value="叶寒 红15&lt;br&gt;第一个逃避忏悔&lt;br&gt;遗传罪责&lt;br&gt;面具擦痕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="1">
+          <mxGeometry x="-498" y="-169" width="102" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-62" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="1" source="_PQuD7MYsxTY_zQTdgSw-55" target="_PQuD7MYsxTY_zQTdgSw-9">
           <mxGeometry relative="1" as="geometry">
