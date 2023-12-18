@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-17T11:33:35.615Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="lywKm7U1xLU1KfdVfQU3" version="22.1.11" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-12-18T13:15:42.224Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="jTfhCkSZ3W0WF7vR5K9X" version="22.1.11" type="github" pages="16">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -2982,8 +2982,8 @@
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-26" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="_PQuD7MYsxTY_zQTdgSw-24" target="_PQuD7MYsxTY_zQTdgSw-13" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_PQuD7MYsxTY_zQTdgSw-24" value="黄晨楠 黑11&lt;br&gt;哥哥&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;凶手黄槿&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" parent="1" vertex="1">
-          <mxGeometry x="-687" y="-74" width="82" height="55" as="geometry" />
+        <mxCell id="_PQuD7MYsxTY_zQTdgSw-24" value="①黄晨楠 黑11&lt;br&gt;哥哥&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;凶手黄槿&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" parent="1" vertex="1">
+          <mxGeometry x="-693" y="-74" width="94" height="55" as="geometry" />
         </mxCell>
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-25" value="黄槿 红3&lt;br&gt;妹妹&lt;br&gt;比黄子桦小1岁&lt;br&gt;手背纹罪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="-708" y="2" width="97" height="70" as="geometry" />
@@ -3038,7 +3038,7 @@
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-52" value="后夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="_PQuD7MYsxTY_zQTdgSw-51" target="_PQuD7MYsxTY_zQTdgSw-32" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="_PQuD7MYsxTY_zQTdgSw-51" value="叶寒 红15&lt;br&gt;第一个逃避忏悔&lt;br&gt;遗传罪责&lt;br&gt;面具擦痕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" parent="1" vertex="1">
+        <mxCell id="_PQuD7MYsxTY_zQTdgSw-51" value="②叶寒 红15&lt;br&gt;第一个逃避忏悔&lt;br&gt;遗传罪责&lt;br&gt;面具擦痕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" parent="1" vertex="1">
           <mxGeometry x="-498" y="-169" width="102" height="70" as="geometry" />
         </mxCell>
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-62" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" parent="1" source="_PQuD7MYsxTY_zQTdgSw-55" target="_PQuD7MYsxTY_zQTdgSw-9" edge="1">
