@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-19T20:30:09.994Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="WmNTZH_bTrYiztHeLoYp" version="22.1.11" type="github" pages="16">
+<mxfile host="app.diagrams.net" modified="2023-12-19T20:44:02.331Z" agent="Mozilla/5.0 (Windows NT 6.1; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.0.0 Safari/537.36" etag="Cg0vm6yuDblzFNLleua3" version="22.1.11" type="github" pages="17">
   <diagram name="木夕僧之戏" id="U1z_27jpZalz9mn7hJ1B">
     <mxGraphModel dx="2159" dy="1677" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -3094,6 +3094,212 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="_PQuD7MYsxTY_zQTdgSw-64" value="瞳瞳/黄瑶琳 红2&lt;br&gt;声带受损" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" parent="1" vertex="1">
+          <mxGeometry x="-480" y="235" width="103" height="41" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram name="十字馆(反转)" id="ySd8bEtzaDqs0FrrYnBJ">
+    <mxGraphModel dx="2532" dy="908" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-0" />
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-1" parent="jr4W0NgpUwlLN_UzkfnC-0" />
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-2" value="夫妻" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-5" target="jr4W0NgpUwlLN_UzkfnC-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-3" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-5" target="jr4W0NgpUwlLN_UzkfnC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-4" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-5" target="jr4W0NgpUwlLN_UzkfnC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-5" value="秦横 黑17&lt;br&gt;男&lt;br&gt;大哥&lt;br&gt;尿毒症 安乐死&lt;br&gt;爱田睿" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-189" y="-60" width="93" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-6" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-9" target="jr4W0NgpUwlLN_UzkfnC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-7" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-9" target="jr4W0NgpUwlLN_UzkfnC-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-8" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-9" target="jr4W0NgpUwlLN_UzkfnC-13">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-9" value="田睿 红14&lt;br&gt;照顾三个孩子&lt;br&gt;在田欣出生第二天愤怒罪&lt;br&gt;尖刀恐惧症" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-49" y="-53" width="150" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-10" value="③田欣 红9 东&lt;br&gt;妹妹 家主" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontColor=#333333;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-241" y="81.5" width="91" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-11" value="母女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-61" target="jr4W0NgpUwlLN_UzkfnC-30">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-12" value="④田苏云 黑10 西&lt;br&gt;哥哥&lt;br&gt;加入黄家&lt;br&gt;有心脏病&lt;br&gt;吃药有瘾" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-84" y="60" width="110" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-13" value="田若景 黑12&lt;br&gt;大哥&lt;br&gt;制药" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="60" y="75.5" width="83" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-14" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-16" target="jr4W0NgpUwlLN_UzkfnC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-15" value="同母异父" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" connectable="0" parent="jr4W0NgpUwlLN_UzkfnC-14">
+          <mxGeometry x="-0.0682" relative="1" as="geometry">
+            <mxPoint y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-16" value="②秦竖 红6 东&lt;br&gt;女 家主&lt;br&gt;姐姐&lt;br&gt;晕血眼镜" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#666666;fillColor=#f5f5f5;fontSize=11;fontFamily=Helvetica;fontColor=#333333;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-430" y="-53" width="91" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-17" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-20" target="jr4W0NgpUwlLN_UzkfnC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-18" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-20" target="jr4W0NgpUwlLN_UzkfnC-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-19" value="关系好" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-20" target="jr4W0NgpUwlLN_UzkfnC-12">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-228" y="40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-20" value="①秦霜 红4 东&lt;br&gt;女&lt;br&gt;妹妹" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-292" y="-46" width="91" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-21" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-24" target="jr4W0NgpUwlLN_UzkfnC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-22" value="❤" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-24" target="jr4W0NgpUwlLN_UzkfnC-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-23" value="秘密：被遗弃的孩子" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-24" target="jr4W0NgpUwlLN_UzkfnC-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-24" value="黄子桦 黑7&lt;br&gt;被收养&lt;br&gt;男&lt;br&gt;懒惰之罪&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;3凶手秦霜&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-546" y="-57" width="76" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-25" value="夫妻&lt;br&gt;没孩子" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-26" target="jr4W0NgpUwlLN_UzkfnC-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-26" value="黄晨楠 黑9&lt;br&gt;男 家主&lt;br&gt;数字比田苏云大1&lt;br&gt;面具颜色一开始错了 &lt;br&gt;用的当时没出生的1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=11;fontFamily=Helvetica;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-439.5" y="60.5" width="126" height="84" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-27" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-29" target="jr4W0NgpUwlLN_UzkfnC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-28" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;dashPattern=12 12;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-29" target="jr4W0NgpUwlLN_UzkfnC-26">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-29" value="⑥黄晨楠 黑9 西&lt;br&gt;哥哥&lt;br&gt;无法生育&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;1凶手黄槿&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-709" y="-96" width="103" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-30" value="⑤黄槿 红3 西&lt;br&gt;妹妹&lt;br&gt;比黄子桦小1岁&lt;br&gt;手背纹罪&lt;br&gt;前几天父母刚去世&lt;br&gt;独眼龙" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-719" y="7" width="114" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-31" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-33" target="jr4W0NgpUwlLN_UzkfnC-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-32" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-33" target="jr4W0NgpUwlLN_UzkfnC-29">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-531" y="-56" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-33" value="黄榛 黑13&lt;br&gt;男&lt;br&gt;罪人&lt;br&gt;被陈萱揭发&lt;br&gt;面具坏了&lt;br&gt;狂暴后坠崖" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-611" y="-235.5" width="78" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-34" value="前夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-37" target="jr4W0NgpUwlLN_UzkfnC-44">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-35" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-37" target="jr4W0NgpUwlLN_UzkfnC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-36" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-37" target="jr4W0NgpUwlLN_UzkfnC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-37" value="秦十 黑18&lt;br&gt;男&lt;br&gt;已经离婚&lt;br&gt;抑郁症" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-354" y="-172" width="71" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-38" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-39" target="jr4W0NgpUwlLN_UzkfnC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-39" value="陈萱 红16&lt;br&gt;女&lt;br&gt;主动刻下疤痕" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-756" y="-214" width="90" height="55" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-40" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-44" target="jr4W0NgpUwlLN_UzkfnC-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-41" value="后来夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-44" target="jr4W0NgpUwlLN_UzkfnC-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-42" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-44" target="jr4W0NgpUwlLN_UzkfnC-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-43" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-44" target="jr4W0NgpUwlLN_UzkfnC-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-44" value="妻子" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-194" y="-150" width="42" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-45" value="其他男人" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-60" y="-153" width="66" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-46" value="后夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-47" target="jr4W0NgpUwlLN_UzkfnC-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-47" value="叶寒 红15&lt;br&gt;卷发女人&lt;br&gt;第一个逃避忏悔&lt;br&gt;遗传罪责&lt;br&gt;面具擦痕&lt;br&gt;&lt;font color=&quot;#ff0000&quot;&gt;2田苏云&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#82b366;fillColor=#d5e8d4;fontSize=11;fontFamily=Helvetica;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-513" y="-200" width="102" height="98" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-48" value="夫妻" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-50" target="jr4W0NgpUwlLN_UzkfnC-13">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-566" y="412" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-49" value="❤" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-50" target="jr4W0NgpUwlLN_UzkfnC-29">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-50" value="陈曦 红8&lt;br&gt;投奔陈萱" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-824" y="-67" width="66" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-51" value="陈晗 红5&lt;br&gt;贪婪罪&lt;br&gt;不愿意忏悔和刻印&lt;br&gt;去世" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-944" y="-141" width="114" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-52" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-55" target="jr4W0NgpUwlLN_UzkfnC-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-53" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-55" target="jr4W0NgpUwlLN_UzkfnC-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-54" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-55" target="jr4W0NgpUwlLN_UzkfnC-51">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-55" value="养父母" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-810" y="-291" width="54" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-56" value="黄晨楠 和 陈晗 面具失踪" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-958" y="160" width="148" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-57" value="田欣 黄晨楠 秦竖 藏眼睛" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-346" y="365" width="148" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-58" value="田苏云伤害自己？&lt;br&gt;秦竖帮谁隐瞒 看到的俩人是谁？&lt;br&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
+          <mxGeometry x="-443" y="401" width="189" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-59" value="养父女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-12" target="jr4W0NgpUwlLN_UzkfnC-61">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points" />
+            <mxPoint x="-84" y="127" as="sourcePoint" />
+            <mxPoint x="-602" y="77" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-60" value="真父女" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;labelBackgroundColor=default;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;endArrow=none;endFill=0;" edge="1" parent="jr4W0NgpUwlLN_UzkfnC-1" source="jr4W0NgpUwlLN_UzkfnC-61" target="jr4W0NgpUwlLN_UzkfnC-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jr4W0NgpUwlLN_UzkfnC-61" value="瞳瞳/黄瑶琳 红2&lt;br&gt;声带受损" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=11;fontFamily=Helvetica;fontColor=default;" vertex="1" parent="jr4W0NgpUwlLN_UzkfnC-1">
           <mxGeometry x="-480" y="235" width="103" height="41" as="geometry" />
         </mxCell>
       </root>
